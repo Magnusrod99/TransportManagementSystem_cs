@@ -3,25 +3,27 @@
 **Author:** Magnus  
 **Roll No:** 2628
 
-C# console implementation of the Transport Management System, based on the supplied Java program.
+## Overview
+A console-based Transport Management System implemented in C# using object-oriented programming concepts.
 
 ## Classes
-- `Transport` — abstract base class with `StartJourney()`.
-- `Vehicle` — inherits from `Transport` and overrides `StartJourney()`.
-- `TransportMode` — stores and displays transport mode details.
-- `Route` — stores route details.
-- `Schedule` — stores schedule details.
-- `AdminMenu` — provides the console menu.
-- `Program` — application entry point.
+- `Transport` — Abstract base class.
+- `Vehicle` — Inherits from `Transport`.
+- `TransportMode` — Represents transport modes.
+- `Route` — Stores route information.
+- `Schedule` — Stores schedule information.
+- `AdminMenu` — Provides the admin menu.
+- `Program` — Starts the application.
 
-## Run in VS Code
-Open the terminal in this folder and run:
+## How to Run
+Open the terminal in this folder and execute:
 
 ```powershell
 dotnet run
 ```
 
-## Notes
-- The View Bookings option is a placeholder, matching the Java reference.
-- Records are displayed after input but are not persisted for later viewing.
-- Save the program-output screenshot in the `output` folder.
+## Output
+Save the program output screenshot in the `output` folder.
+
+## Note
+The View Bookings option is currently a placeholder. Entered records are displayed but are not saved for later retrieval.
