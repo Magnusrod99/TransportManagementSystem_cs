@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TransportManagementSystem_CS/1.0.0": {
+        "runtime": {
+          "TransportManagementSystem_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransportManagementSystem_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

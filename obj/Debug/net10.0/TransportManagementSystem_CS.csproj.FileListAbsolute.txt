@@ -1,0 +1,14 @@
+C:\MCA\SEM1\OOPS\CS\bin\Debug\net10.0\TransportManagementSystem_CS.exe
+C:\MCA\SEM1\OOPS\CS\bin\Debug\net10.0\TransportManagementSystem_CS.deps.json
+C:\MCA\SEM1\OOPS\CS\bin\Debug\net10.0\TransportManagementSystem_CS.runtimeconfig.json
+C:\MCA\SEM1\OOPS\CS\bin\Debug\net10.0\TransportManagementSystem_CS.dll
+C:\MCA\SEM1\OOPS\CS\bin\Debug\net10.0\TransportManagementSystem_CS.pdb
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.AssemblyInfoInputs.cache
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.AssemblyInfo.cs
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.csproj.CoreCompileInputs.cache
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.dll
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\refint\TransportManagementSystem_CS.dll
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.pdb
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\TransportManagementSystem_CS.genruntimeconfig.cache
+C:\MCA\SEM1\OOPS\CS\obj\Debug\net10.0\ref\TransportManagementSystem_CS.dll
